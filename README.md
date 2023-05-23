@@ -8,4 +8,4 @@ Contributor - 1 : Donato Laura Groupe D
 Contrivutor : Fatma-MR
 
 ## fork URL
-Contributor - 1 : [quotes-Laura-D] (
+Contributor - 1 : [quotes-Laura-D] (https://github.com/LauraDon/quotes-Laura-D)
